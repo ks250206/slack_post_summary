@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slack Post Report MD"
+  short_description: "Create local Markdown daily, weekly, monthly reports"
+  default_prompt: "Use $slack-post-report-md to generate a project-local Markdown daily, weekly, or monthly report from my Slack posts."

@@ -1,0 +1,10 @@
+# Local secrets
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+.mypy_cache/
+
+# Generated report outputs
+reports/
